@@ -19,6 +19,9 @@ def multiple_line():
             # The "write" method of the file object will be used to save the line of text to the file, followed by a newline character (\n).
             input_file.write(line + '\n')
             # Ask if the user wants to add more lines by asking y/n.
-            add_line = input('Are there more lines y/n? ')
-# If n, then break the code.
+            add_lines = input('Are there more lines y/n? ')
+            # If n, then break the code.
+            # use lower() function to convert the character into lowercase
+            if add_lines.lower() == 'n':
+                
 # call the method to run the code
