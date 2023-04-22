@@ -12,8 +12,11 @@
 def multiple_line():
     # Make a file called "mylife.txt" and give it permission to be written to with the "write" command. 
     with open('mylife.txt', 'w') as input_file:
+        # Loop over the code using a while statement.
+        while True:
+            # ask the user to input a line
+            line = input("Enter line: ")
 
-# Loop over the code using a while statement.
 # The "write" method of the file object will be used to save the line of text to the file, followed by a newline character (\n).
 # Ask if the user wants to add more lines by asking y/n.
 # If n, then break the code.
