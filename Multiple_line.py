@@ -16,8 +16,9 @@ def multiple_line():
         while True:
             # ask the user to input a line
             line = input("Enter line: ")
-
-# The "write" method of the file object will be used to save the line of text to the file, followed by a newline character (\n).
-# Ask if the user wants to add more lines by asking y/n.
+            # The "write" method of the file object will be used to save the line of text to the file, followed by a newline character (\n).
+            input_file.write(line + '\n')
+            # Ask if the user wants to add more lines by asking y/n.
+            add_line = input('Are there more lines y/n? ')
 # If n, then break the code.
 # call the method to run the code
