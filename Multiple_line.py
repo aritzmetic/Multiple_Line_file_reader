@@ -23,5 +23,7 @@ def multiple_line():
             # If n, then break the code.
             # use lower() function to convert the character into lowercase
             if add_lines.lower() == 'n':
-                
+                 break
+            
 # call the method to run the code
+multiple_line()
