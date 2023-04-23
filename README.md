@@ -28,3 +28,8 @@ https://user-images.githubusercontent.com/112628197/233819301-319f07cf-e488-423a
 > 6. When you're finished, press the "n" key to stop adding lines.
 > 7. The file containing your life story will have mylife.txt as its title.
 
+https://user-images.githubusercontent.com/112628197/233819984-4d3cbe70-7d23-4254-8d85-2a969873d38a.mp4
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+
+**_You are free to get in touch with me, @aritzmetic,  or to report problems directly on this repository if you discover problems with the project. Check out our [contribution guidelines](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/setting-guidelines-for-repository-contributors) if you are interested in doing more to help the development of the project. Thank you!_** 
