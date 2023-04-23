@@ -9,3 +9,9 @@ https://user-images.githubusercontent.com/112628197/233819301-319f07cf-e488-423a
 
 ### **PROGRAMMING LANGUAGE USED**
 > Python
+
+## **Attributes**
+- > **Easy to navigate** and utilize interface
+- > **Inspirational quotes** to read while you write
+- > Allows you to **insert as many lines as you like**
+- > **Creates a file with the name you provide** as the filename and stores your story in it.
